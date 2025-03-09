@@ -202,8 +202,8 @@ const topNav = [
     disabled: true,
   },
   {
-    title: 'Products',
-    href: 'dashboard/products',
+    title: 'Users',
+    href: 'dashboard/users',
     isActive: false,
     disabled: true,
   },

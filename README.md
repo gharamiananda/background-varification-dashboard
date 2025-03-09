@@ -1,10 +1,10 @@
-# Shadcn Admin Dashboard
+# bg Admin Dashboard
 
-Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.
+Admin Dashboard UI crafted with bg and Vite. Built with responsiveness and accessibility in mind.
 
-![alt text](public/images/shadcn-admin.png)
+![alt text](public/images/bg-admin.png)
 
-I've been creating dashboard UIs at work and for my personal projects. I always wanted to make a reusable collection of dashboard UI for future projects; and here it is now. While I've created a few custom components, some of the code is directly adapted from ShadcnUI examples.
+I've been creating dashboard UIs at work and for my personal projects. I always wanted to make a reusable collection of dashboard UI for future projects; and here it is now. While I've created a few custom components, some of the code is directly adapted from bgUI examples.
 
 > This is not a starter project (template) though. I'll probably make one in the future.
 
@@ -20,7 +20,7 @@ I've been creating dashboard UIs at work and for my personal projects. I always 
 
 ## Tech Stack
 
-**UI:** [ShadcnUI](https://ui.shadcn.com) (TailwindCSS + RadixUI)
+**UI:** [bgUI](https://ui.bg.com) (TailwindCSS + RadixUI)
 
 **Build Tool:** [Vite](https://vitejs.dev/)
 
@@ -37,13 +37,13 @@ I've been creating dashboard UIs at work and for my personal projects. I always 
 Clone the project
 
 ```bash
-  git clone https://github.com/satnaing/shadcn-admin.git
+  git clone https://github.com/ananda/bg-admin.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd shadcn-admin
+  cd bg-admin
 ```
 
 Install dependencies
@@ -60,7 +60,7 @@ Start the server
 
 ## Author
 
-Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
+Crafted with 🤍 by [@ananda](https://github.com/ananda)
 
 ## License
 

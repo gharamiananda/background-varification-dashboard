@@ -133,7 +133,7 @@ export function NotificationsForm() {
                       Marketing emails
                     </FormLabel>
                     <FormDescription>
-                      Receive emails about new products, features, and more.
+                      Receive emails about new users, features, and more.
                     </FormDescription>
                   </div>
                   <FormControl>
